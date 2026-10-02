@@ -1,0 +1,51 @@
+user_id,branch_id,full_name,role,email,phone,status
+1,13,Wakeeta Rao,Branch Manager,dugalanvi@example.org,9810525945,Active
+2,19,Panini Kar,Auditor,jagat82@example.org,9009100571,Active
+3,17,Parth Lall,Admin,rsule@example.com,9620510417,Active
+4,20,Ethan Panchal,Auditor,madhav91@example.org,9058289443,Active
+5,5,Janani Walia,Auditor,alka81@example.com,9553179077,Active
+6,18,Sai Din,Cashier,pranavbalasubramanian@example.org,9314114238,Active
+7,3,Upadhriti Dube,Admin,bagarwal@example.org,9029569913,Active
+8,3,Madhavi Parsa,Cashier,praneel00@example.org,9355540544,Active
+9,15,Yagnesh Buch,Admin,fradobabu@example.net,9876296957,Active
+10,6,Darsh Bhattacharyya,Branch Manager,yuvrajmannan@example.com,9941719239,Active
+11,2,Unnati Chahal,Fraud Analyst,xiti90@example.org,9693425489,Active
+12,16,Ekantika Bakshi,Cashier,anyarama@example.com,9954865511,Active
+13,5,Nikita Prasad,Admin,tanay05@example.net,9655633637,Active
+14,15,Omya Desai,Fraud Analyst,gatwal@example.com,9547192167,Active
+15,3,Janaki Lall,Cashier,sudikshaborde@example.com,9743625379,Active
+16,4,Dhruv Pingle,Auditor,luthradayamai@example.net,9765105320,Active
+17,5,Utkarsh Dutt,Auditor,theodore99@example.net,9481243594,Active
+18,13,Sathvik Gola,Auditor,hnarayan@example.com,9522549906,Inactive
+19,11,Warinder Sachdeva,Fraud Analyst,qchadha@example.net,9883451292,Active
+20,2,Jalsa Butala,Branch Manager,yahvi81@example.net,9781825683,Active
+21,17,Harinakshi Dugar,Branch Manager,vbir@example.net,9856270297,Active
+22,5,Kritika Bhavsar,Fraud Analyst,rsuresh@example.net,9234269732,Active
+23,8,Chandran Ramesh,Fraud Analyst,rajanbina@example.net,9267446955,Active
+24,7,Pushti Magar,Auditor,ikshita23@example.net,9431831705,Inactive
+25,19,Guneet Saha,Cashier,abhimanyudixit@example.com,9549728539,Inactive
+26,13,Aditya Nigam,Fraud Analyst,girikgaba@example.org,9551363215,Active
+27,6,Chatresh Ghosh,Auditor,liam04@example.net,9352414178,Active
+28,2,Vihaan Saxena,Cashier,raaginichaudry@example.org,9678801632,Active
+29,18,Gabriel Dixit,Cashier,eta88@example.org,9619570098,Active
+30,17,Ekalinga Chawla,Admin,oni32@example.org,9016356312,Active
+31,18,Joshua Bail,Auditor,fariq68@example.org,9184544465,Active
+32,8,Pranav Guha,Admin,eguha@example.com,9967406252,Active
+33,5,Maya Toor,Fraud Analyst,gillyauvani@example.com,9081778973,Active
+34,17,Udarsh Shere,Fraud Analyst,mahajanshivani@example.org,9215404582,Inactive
+35,17,Charles Zachariah,Fraud Analyst,aradhanaseth@example.net,9794887491,Inactive
+36,2,Zehaan Gole,Fraud Analyst,nachiket56@example.org,9495506097,Active
+37,11,Hritik Karan,Auditor,lmitter@example.com,9643481917,Active
+38,14,Wyatt Gera,Fraud Analyst,darika87@example.net,9366332523,Active
+39,14,Robert Chakrabarti,Cashier,lajitabahl@example.org,9616517950,Active
+40,6,Upasna Kaur,Admin,kalitareyansh@example.com,9009257435,Active
+41,16,Ayaan Manne,Admin,madhavi52@example.org,9488149151,Active
+42,13,Omaja Pandya,Fraud Analyst,yug77@example.net,9927976937,Active
+43,1,Sathvik Dhillon,Auditor,advay10@example.org,9498237551,Active
+44,8,Yachana Rout,Branch Manager,kalpit08@example.org,9156253708,Active
+45,11,Lekha Wali,Admin,ayushmantak@example.org,9177051869,Active
+46,1,Upkaar Nair,Cashier,pgolla@example.com,9745556124,Active
+47,10,Ucchal Gulati,Fraud Analyst,oommenjanuja@example.net,9093825886,Inactive
+48,4,Indali Salvi,Admin,gsehgal@example.org,9453232217,Active
+49,17,Megha Sawhney,Cashier,gerachaman@example.com,9539937761,Active
+50,3,Manbir Salvi,Branch Manager,dayalvansha@example.org,9782670509,Active

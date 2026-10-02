@@ -1,0 +1,7 @@
+rule_id,rule_name,description,risk_score,active
+1,High Amount Transaction,"Transaction exceeds ₹2,00,000",90,True
+2,Multiple Transactions,More than 10 transactions in one hour,80,True
+3,Unknown Device,Transaction from an untrusted device,75,True
+4,Location Mismatch,Transaction from a new city,70,True
+5,Rapid Transfers,Multiple outward transfers within minutes,95,True
+6,Blacklisted Receiver,Receiver account is blacklisted,100,True

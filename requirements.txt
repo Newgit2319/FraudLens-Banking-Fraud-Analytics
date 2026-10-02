@@ -1,0 +1,8 @@
+pandas
+numpy
+faker
+tqdm
+scikit-learn
+mysql-connector-python
+streamlit
+plotly

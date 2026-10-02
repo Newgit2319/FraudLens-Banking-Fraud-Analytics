@@ -1,0 +1,11 @@
+{
+    "model": "Random Forest",
+    "dataset_size": 30000,
+    "fraud_cases": 84,
+    "non_fraud_cases": 29916,
+    "test_size": 0.2,
+    "precision": 0.0524,
+    "recall": 0.8235,
+    "f1_score": 0.0986,
+    "roc_auc": 0.9521
+}

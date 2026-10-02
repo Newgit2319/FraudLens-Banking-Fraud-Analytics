@@ -1,0 +1,21 @@
+branch_id,branch_code,branch_name,city,state,phone,manager_name
+1,BR0001,Mumbai Branch,Mumbai,Maharashtra,9104332181,Azad Balan
+2,BR0002,Delhi Branch,Delhi,Delhi,9133890838,Thomas Sen
+3,BR0003,Bengaluru Branch,Bengaluru,Karnataka,9940265423,Harsh Chanda
+4,BR0004,Hyderabad Branch,Hyderabad,Telangana,9615594078,Kritika Brar
+5,BR0005,Chennai Branch,Chennai,Tamil Nadu,9849593103,Fariq Kaul
+6,BR0006,Pune Branch,Pune,Maharashtra,9164752553,Ekbal Garg
+7,BR0007,Kolkata Branch,Kolkata,West Bengal,9832764835,Veer Balay
+8,BR0008,Ahmedabad Branch,Ahmedabad,Gujarat,9564139537,Tara Dhar
+9,BR0009,Jaipur Branch,Jaipur,Rajasthan,9423884969,Janaki Kanda
+10,BR0010,Lucknow Branch,Lucknow,Uttar Pradesh,9287101226,Lekha Raj
+11,BR0011,Visakhapatnam Branch,Visakhapatnam,Andhra Pradesh,9978480184,Isaac Memon
+12,BR0012,Vijayawada Branch,Vijayawada,Andhra Pradesh,9627048281,Yashica Issac
+13,BR0013,Kochi Branch,Kochi,Kerala,9252880957,Isaac Patil
+14,BR0014,Bhopal Branch,Bhopal,Madhya Pradesh,9430391171,Kabir Soman
+15,BR0015,Nagpur Branch,Nagpur,Maharashtra,9824896383,Mohini Prakash
+16,BR0016,Indore Branch,Indore,Madhya Pradesh,9787133150,Thomas Amble
+17,BR0017,Patna Branch,Patna,Bihar,9103105183,Vedika Kala
+18,BR0018,Surat Branch,Surat,Gujarat,9829973763,Gunbir Sankar
+19,BR0019,Mysuru Branch,Mysuru,Karnataka,9566701065,Yuvraj Handa
+20,BR0020,Coimbatore Branch,Coimbatore,Tamil Nadu,9387262473,Saanvi Chaudhari
